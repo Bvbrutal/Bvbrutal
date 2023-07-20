@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=你好，陌生人~~~~~;开心每一天~~~~~~">
   </a>
 </h1>
+<div align="center" ><img src="https://count.getloli.com/get/@psh?theme=rule34"></div>
 
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
