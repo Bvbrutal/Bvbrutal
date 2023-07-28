@@ -7,21 +7,23 @@
 </div>
 
 <!-- 敲代码的图片 -->
+<div align="center" ><img src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"  style="width:650px"/></div>
 <!-- <p align="center"> <img width="433" height="177" src="https://user-images.githubusercontent.com/104733166/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif"/> -->
-
-<div align="center"><img src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
 <br>
+
 
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://pshxx.cc/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
-  <a href="https://twitter.com/anzhiyu_c"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
-  <a href="https://www.youtube.com/channel/UCOOyJ0Pn8blGrwvDTSi8USw"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
   <a href="https://blog.csdn.net/m0_59088506?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/1937483889"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://www.youtube.com/channel/UCOOyJ0Pn8blGrwvDTSi8USw"><img src="https://img.shields.io/badge/Youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
   <a href="https://www.zhihu.com/people/mo-cha-49-88"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  <a href="https://music.163.com/#/user/home?id=1324208260"><img src="https://img.shields.io/badge/NC-网易云-c32136"></a>&emsp;
+  <a href="https://twitter.com/anzhiyu_c"><img src="https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
+  
 <!-- 访客数统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=Bvbrutal&style=flat" /></div>
+  <img src="https://komarev.com/ghpvc/?username=Bvbrutal&style=flat" />
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
@@ -36,29 +38,35 @@
 
 ~~同学们不要学我，老是熬夜会长痘~~
 
+ # ⚡打卡:
+
+<!-- github每日打卡图片 -->
+
+<!-- <img src="https://streak-stats.demolab.com/?user=Bvbrutal"  style="width:800px"/> -->
+
 💪 正在学习:
 
 &emsp;&emsp;
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
-![React](https://img.shields.io/badge/-React-07afd9?style=flat-square&logo=React)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 
 🧠 计划学习:
 
 &emsp;&emsp;
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
+![React](https://img.shields.io/badge/-React-07afd9?style=flat-square&logo=React)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-2E67D3.svg?style=style=flat-square&logo=rust&logoColor=white)
 
@@ -81,22 +89,23 @@
 <!-- 连续提交代码天数记录 -->
 <p align="center">
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzhiyu-c&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bvbrutal&theme=dark&hide_border=true" />
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
 </p>
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c@main/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"><img src="https://metrics.lecoq.io/Bvbrutal?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" alt="base metrics"/></div>
 <br>
 
+
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=anzhiyu-c&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Bvbrutal&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=anzhiyu-c&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzhiyu-c&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Bvbrutal&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bvbrutal&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
 <!-- 最近博客和豆瓣动态 -->
@@ -150,8 +159,6 @@ Markdown                   5 hrs 47 mins   ██▒░░░░░░░░░�
 </tr>
 </table>
 
-<!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=anzhiyu-c&theme=xcode" /></div>
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
@@ -165,6 +172,6 @@ Markdown                   5 hrs 47 mins   ██▒░░░░░░░░░�
 
 <!-- BiliBili和CSDN数据 -->
 <div align="center">
-  <a href="https://space.bilibili.com/372204786"><img src="https://stats.justsong.cn/api/bilibili/?id=372204786"/></a>
-  <a href="https://blog.csdn.net/CZW2268025923?spm=1001.2014.3001.5343"><img src="https://stats.justsong.cn/api/csdn?id=CZW2268025923?spm=1001.2014.3001.5343"/></a>
+  <a href="https://space.bilibili.com/1937483889"><img src="https://stats.justsong.cn/api/bilibili/?id=1937483889"/></a>
+  <a href="https://blog.csdn.net/m0_59088506?spm=1000.2115.3001.5343"><img src="https://stats.justsong.cn/api/csdn?id=m0_59088506?spm=1000.2115.3001.5343"/></a>
 </div>
