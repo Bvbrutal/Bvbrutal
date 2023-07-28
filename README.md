@@ -38,10 +38,9 @@
 
 ~~同学们不要学我，老是熬夜会长痘~~
 
- # ⚡打卡:
 
 <!-- github每日打卡图片 -->
-
+<!--  # ⚡打卡: -->
 <!-- <img src="https://streak-stats.demolab.com/?user=Bvbrutal"  style="width:800px"/> -->
 
 💪 正在学习:
@@ -170,8 +169,10 @@ Markdown                   5 hrs 47 mins   ██▒░░░░░░░░░�
 
 # 🤝 Social
 
-<!-- BiliBili和CSDN数据 -->
+<!-- 面板数据 -->
 <div align="center">
-  <a href="https://space.bilibili.com/1937483889"><img src="https://stats.justsong.cn/api/bilibili/?id=1937483889"/></a>
+  <a href="https://space.bilibili.com/1937483889"><img src="https://stats.justsong.cn/api/bilibili/?id=1937483889&theme=dark"/></a>
   <a href="https://blog.csdn.net/m0_59088506?spm=1000.2115.3001.5343"><img src="https://stats.justsong.cn/api/csdn?id=m0_59088506?spm=1000.2115.3001.5343"/></a>
+  <a href="https://github.com/Bvbrutal"><img src="https://stats.justsong.cn/api/leetcode?username=xi-huan-zou-xia-po-lu"/></a>
+  <a href="https://github.com/Bvbrutal"><img src="https://stats.justsong.cn/api/github?id=Bvbrutal&theme=dark"/></a>
 </div>
