@@ -7,19 +7,21 @@
 </div>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img style="with:8010px;border-radius:100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
+<!-- <p align="center"> <img width="433" height="177" src="https://user-images.githubusercontent.com/104733166/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif"/> -->
+
+<div align="center"><img src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
 <br>
 
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://pshxx.cc/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
   <a href="https://twitter.com/anzhiyu_c"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
-  <a href="https://www.youtube.com/channel/UC1zFQPt_DccDr0pn60jzoQQ"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
-  <a href="https://blog.csdn.net/CZW2268025923?spm=1010.2135.3001.5343"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/372204786"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/xi-gua-pi-pi-60"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  <a href="https://www.youtube.com/channel/UCOOyJ0Pn8blGrwvDTSi8USw"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
+  <a href="https://blog.csdn.net/m0_59088506?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+  <a href="https://space.bilibili.com/1937483889"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://www.zhihu.com/people/mo-cha-49-88"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=anzhiyu-c" /></div>
+  <img src="https://komarev.com/ghpvc/?username=Bvbrutal&style=flat" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
