@@ -7,7 +7,7 @@
 </div>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
+<div align="center" ><img style="with:8010px;border-radius:100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
 <br>
 
 <!-- 个人资料徽标 -->
