@@ -2,7 +2,7 @@
 <div>
   <img style="width: 400px;height: 150px" src="https://count.getloli.com/get/@psh?theme=rule34">
   <a href="https://pshxx.cc/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=400&height=150&lines=++++Dream+is+like+underwear!!!!;PSH" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=400&height=150&lines=++++Dream+is+like+underwear!!!!!!;PSH" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,23 +20,27 @@
   <a href="https://www.youtube.com/channel/UCOOyJ0Pn8blGrwvDTSi8USw"><img src="https://img.shields.io/badge/Youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
   <a href="https://www.zhihu.com/people/mo-cha-49-88"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
   <a href="https://music.163.com/#/user/home?id=1324208260"><img src="https://img.shields.io/badge/NC-网易云-c32136"></a>&emsp;
-  <a href="https://twitter.com/anzhiyu_c"><img src="https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
-  
-<!-- 访客数统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=Bvbrutal&style=flat" />
+  <a href="https://twitter.com/pshplo"><img src="https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=Bvbrutal&style=flat"/></a>
+</div>
 
 <!-- 贪吃蛇代码贡献图 -->
+
 <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
 
 # 🙋 Hello
 
-欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
+欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃 ✋~
 
-但是记学习真的是一个很棒的习惯 💪，每次一次学习别人的东西转变成为自己的，都是一次成长，了解为什么要这么做，为什么不这么做 ⚡
+学习记录真的是一个很棒的习惯 💪，每次一次学习别人的东西转变成为自己的，都是一次成长，了解为什么要这么做，为什么不这么做 ⚡
 
-每周我都会尽量进行更新 ☁️，如果没更的话，可能是我忘了，也可能是我在钻研某个东西的时候太入迷了 ~~肯定又熬夜了~~
 
-~~同学们不要学我，老是熬夜会长痘~~
+<br>
+<div align="center">
+  
+  # ***~~打死也不要熬夜!!!!!~~***‼️‼️‼️
+</div>
+<br>
 
 
 <!-- github每日打卡图片 -->
@@ -146,11 +150,11 @@ From: 11 June 2023 - To: 11 July 2023
 
 Total Time: 66 hrs 43 mins
 
-Vue.js                     26 hrs 15 mins  █████████▓░░░░░░░░░░░░░░░   39.31 %
-TypeScript                 10 hrs 12 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
-YAML                       6 hrs 47 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
-Stylus                     6 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-Markdown                   5 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+java                     26 hrs 15 mins  █████████▓░░░░░░░░░░░░░░░   39.31 %
+js                       10 hrs 12 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
+machine learning         6 hrs 47 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+operating system         6 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
+Markdown                 5 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
 ```
 
 <!--END_SECTION:waka-->
@@ -163,7 +167,7 @@ Markdown                   5 hrs 47 mins   ██▒░░░░░░░░░�
 
 <!-- plugin metrics -->
 <div align="center">
-  <img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c@main/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+<!--   <img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c@main/plugin_metrics.svg" alt="plugin metrics" width="75%"/> -->
   <img src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/rocket-banner.jpg"/>
 </div>
 
@@ -172,7 +176,7 @@ Markdown                   5 hrs 47 mins   ██▒░░░░░░░░░�
 <!-- 面板数据 -->
 <div align="center">
   <a href="https://space.bilibili.com/1937483889"><img src="https://stats.justsong.cn/api/bilibili/?id=1937483889&theme=dark"/></a>
-  <a href="https://blog.csdn.net/m0_59088506?spm=1000.2115.3001.5343"><img src="https://stats.justsong.cn/api/csdn?id=m0_59088506?spm=1000.2115.3001.5343"/></a>
-  <a href="https://github.com/Bvbrutal"><img src="https://stats.justsong.cn/api/leetcode?username=xi-huan-zou-xia-po-lu"/></a>
+  <a href="https://blog.csdn.net/m0_59088506?spm=1000.2115.3001.5343"><img src="https://stats.justsong.cn/api/csdn?id=m0_59088506?spm=1000.2115.3001.5343&theme=dark"/></a>
+  <a href="https://github.com/Bvbrutal"><img src="https://stats.justsong.cn/api/leetcode?username=xi-huan-zou-xia-po-lu&theme=dark"/></a>
   <a href="https://github.com/Bvbrutal"><img src="https://stats.justsong.cn/api/github?id=Bvbrutal&theme=dark"/></a>
 </div>
