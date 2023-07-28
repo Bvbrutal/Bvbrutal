@@ -1,10 +1,10 @@
 <!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://anzhiy.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=你好，陌生人~~~~~;开心每一天~~~~~~">
+<div>
+  <img style="width: 400px;height: 150px" src="https://count.getloli.com/get/@psh?theme=rule34">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=550&height=150&lines=Dream+is+like+underwear!!!!;PSH" alt="Typing SVG" />
   </a>
-</h1>
-<div align="center" ><img src="https://count.getloli.com/get/@psh?theme=rule34"></div>
+</div>
 
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
