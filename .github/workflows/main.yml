@@ -31,7 +31,7 @@ jobs:
           
       - name: Delete Previous Insertion
         run: |
-          previous_output=$(cat previous_output.txt)
+          previous_output=$(cat previous_output.md)
           awk -v pattern="${previous_output}" '!index($0, pattern)' README.md > README1.md.tmp
           mv README1.md.tmp README.md
 
