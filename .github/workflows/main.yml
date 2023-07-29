@@ -19,7 +19,12 @@ jobs:
     - name: Update README.md
       run: |
           output=$(node index.js)
-          printf "0a\n${output}\n.\nw\nq" | ed -s README.md
+          sed -i "1i\\
+          ${output}\\
+          " README.md
+          previous_output=$(cat previous_output.txt)
+          sed -i "1,/${previous_output}/d" README.md
+          echo "$output" > previous_output.txt
     - name: Commit change & Push
       run: |
           git config user.name 'github-actions[bot]'
