@@ -1,8 +1,8 @@
 <!-- 动态打字效果 -->
-<div>
+<div style="width:100%">
   <a><img style="width: 400px;height: 150px" src="https://count.getloli.com/get/@psh?theme=rule34"></a>
   <a href="https://pshxx.cc/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=450&height=150&lines=Dream+is+like+underwear!!!!!!;PSH" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=25&pause=1000&center=true&vCenter=true&width=450&height=150&lines=Dream+is+like+underwear!!!!!!;PSH" alt="Typing SVG" />
   </a>
 </div>
 
