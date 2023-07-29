@@ -20,8 +20,7 @@ const readme = `\
 
 ---
 
-⏰ Updated on ${new Date().toUTCString()}
-
-\`
+⏰ Updated on ${new Date().toUTCString()}\
+`
 
 console.log(readme)
