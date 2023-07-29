@@ -122,10 +122,7 @@
 
 <!-- START_SECTION:blog -->
 * <a href='https://blog.anheyu.com/posts/2594.html' target='_blank'>通义万相上手体验</a> - 2023-07-09
-* <a href='https://blog.anheyu.com/posts/e140.html' target='_blank'>html 属性Accesskey详细解析</a> - 2023-07-01
-* <a href='https://blog.anheyu.com/posts/39a9.html' target='_blank'>全新卡片式外链标签引入</a> - 2023-06-30
-* <a href='https://blog.anheyu.com/posts/a76e.html' target='_blank'>音乐meting自建api</a> - 2023-06-08
-* <a href='https://blog.anheyu.com/posts/d50a.html' target='_blank'>安知鱼主题标签 Tag Plugins</a> - 2023-06-01
+* <a href='#' >待续 ......</a> - 至今
 <!-- END_SECTION:blog -->
 
 </td>
@@ -134,8 +131,8 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/252613592" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/35691909/' target='_blank'>想看鬼灭之刃 浅草篇</a> - 2022-03-02
-* <a href='https://book.douban.com/subject/2567698/' target='_blank'>读过三体</a> - 2022-01-09
+* <a href='https://www.bilibili.com/bangumi/play/ep683730/' target='_blank'>想看《蓝色监狱》</a> - 2023-07-30
+* <a href='https://www.bilibili.com/bangumi/play/ep341309?spm_id_from=333.337.0.0&from_spmid=666.25.episode.0' target='_blank'>看过《咒术回战》 第一季 正在养第二季🐮</a> - 2023-01-09
 <!-- END_SECTION:douban -->
 
 </table>
