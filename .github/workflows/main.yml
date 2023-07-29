@@ -4,30 +4,33 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 */6 * * *'
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
-
+  run_node_and_insert_to_readme:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '16.x'
-    - name: Update README.md
-      run: |
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js 16.x
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16.x
+
+      - name: Run Node.js Script and Insert to README   # 运行 node index.js
+        run: |
           output=$(node index.js)
-          sed -i "1i\\
-          ${output}\\
-          " README.md
-          previous_output=$(cat previous_output.txt)
-          sed -i "1,/${previous_output}/d" README.md
-          echo "$output" > previous_output.txt
-    - name: Commit change & Push
-      run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '1023092893+github-actions[bot]@users.noreply.github.com'
-          git commit -am "bot: update README.md automatically"
+          echo "${output}" | cat - README.md > README.md.tmp
+          mv README.md.tmp README.md
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Insert Node.js script output to README"
           git push
