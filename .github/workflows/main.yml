@@ -21,16 +21,23 @@ jobs:
         with:
           node-version: 16.x
 
-      - name: Run Node.js Script and Insert to README   # 运行 node index.js
+      - name: Run Node.js Script and Insert to README
         run: |
           output=$(node index.js)
           echo "${output}" | cat - README.md > README.md.tmp
           mv README.md.tmp README.md
+          echo "${output}" > previous_output.txt
+
+      - name: Delete Previous Insertion
+        run: |
+          previous_output=$(cat previous_output.txt)
+          sed -i "1,/${previous_output}/d" README.md
 
       - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Insert Node.js script output to README"
+          git add README.md previous_output.txt
+          git commit -m "Insert and Delete Node.js script output to README"
           git push
+
