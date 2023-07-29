@@ -32,7 +32,7 @@ jobs:
       - name: Delete Previous Insertion
         run: |
           previous_output=$(cat previous_output.md)
-          sed -i "\~${previous_output}~d" README.md
+          sed -i "\#${previous_output}#d" README.md
   
         
       - name: Commit and Push
