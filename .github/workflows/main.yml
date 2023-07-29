@@ -29,7 +29,12 @@ jobs:
           mv README.md.tmp README.md
           echo "${output}" > previous_output.txt
           
-          
+      - name: Delete Previous Insertion
+        run: |
+          previous_output=$(cat previous_output.txt)
+          sed -i "/${previous_output}/d" README.md
+  
+        
       - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
