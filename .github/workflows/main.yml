@@ -31,8 +31,10 @@ jobs:
           
       - name: Delete Previous Insertion
         run: |
-          previous_output=$(cat previous_output.md)
-          sed -i "\·${previous_output}·d" README.md
+          previous_output=$(cat previous_output.txt)
+          awk -v pattern="${previous_output}" '!index($0, pattern)' README.md > README1.md.tmp
+          mv README1.md.tmp README.md
+
   
         
       - name: Commit and Push
