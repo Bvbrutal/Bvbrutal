@@ -4,6 +4,13 @@
 
 ---
 
+⏰ Updated on Sat, 29 Jul 2023 22:50:43 GMT
+### Hi there 👋
+
+⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.52 %
+
+---
+
 ⏰ Updated on Sat, 29 Jul 2023 22:46:20 GMT
 ### Hi there 👋
 
@@ -35,7 +42,6 @@
 <!-- <p align="center"> <img width="433" height="177" src="https://user-images.githubusercontent.com/104733166/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif"/> -->
 <br>
 
-
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://pshxx.cc/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
@@ -58,14 +64,12 @@
 
 学习记录真的是一个很棒的习惯 💪，每次一次学习别人的东西转变成为自己的，都是一次成长，了解为什么要这么做，为什么不这么做 ⚡
 
-
 <br>
 <div align="center">
   
   # ***~~打死也不要熬夜!!!!!~~***‼️‼️‼️
 </div>
 <br>
-
 
 <!-- github每日打卡图片 -->
 <!--  # ⚡打卡: -->
@@ -123,7 +127,6 @@
 <!-- metrics 基础资料 -->
 <div align="center"><img src="https://metrics.lecoq.io/Bvbrutal?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" alt="base metrics"/></div>
 <br>
-
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Bvbrutal&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
@@ -183,7 +186,6 @@ Markdown                 5 hrs 47 mins   ██▒░░░░░░░░░░
 </tr>
 </table>
 
-
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
 <!-- plugin metrics -->
@@ -201,3 +203,4 @@ Markdown                 5 hrs 47 mins   ██▒░░░░░░░░░░
   <a href="https://github.com/Bvbrutal"><img src="https://stats.justsong.cn/api/leetcode?username=xi-huan-zou-xia-po-lu&theme=dark"/></a>
   <a href="https://github.com/Bvbrutal"><img src="https://stats.justsong.cn/api/github?id=Bvbrutal&theme=dark"/></a>
 </div>
+
