@@ -1,28 +1,4 @@
-### Hi there 👋
 
-⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.51 %
-
----
-
-⏰ Updated on Sat, 29 Jul 2023 21:49:42 GMT
-
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
-### Hi there 👋
-
-⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.51 %
-
----
-
-⏰ Updated on Sat, 29 Jul 2023 21:48:51 GMT
-
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
-### Hi there 👋
-
-⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.51 %
-
----
-
-⏰ Updated on Sat, 29 Jul 2023 21:47:44 GMT
 
 ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 <!-- 动态打字效果 -->
