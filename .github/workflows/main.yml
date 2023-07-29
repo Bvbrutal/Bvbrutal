@@ -27,11 +27,11 @@ jobs:
           output=$(node index.js)
           echo "${output}" | cat - README.md > README.md.tmp
           mv README.md.tmp README.md
-          echo "${output}" > previous_output.txt
+          echo "${output}" > previous_output.md
           
       - name: Delete Previous Insertion
         run: |
-          previous_output=$(cat previous_output.txt)
+          previous_output=$(cat previous_output.md)
           sed -i "\~${previous_output}~d" README.md
   
         
