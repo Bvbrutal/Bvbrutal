@@ -1,3 +1,12 @@
+### Hi there 👋
+
+⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.51 %
+
+---
+
+⏰ Updated on Sat, 29 Jul 2023 21:47:44 GMT
+
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 <!-- 动态打字效果 -->
 <div style="width:100%" align="center">
   <a><img style="width: 600px;height: 375px" src="https://count.getloli.com/get/@psh?theme=rule34"></a>
