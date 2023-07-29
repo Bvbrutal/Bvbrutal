@@ -22,11 +22,14 @@ jobs:
           node-version: 16.x
 
 
-      - name: Delete Previous Insertion
+      - name: Run Node.js Script and Insert to README
         run: |
-          previous_output=$(cat previous_output.txt)
-          sed -i "1,/${previous_output}/d" README.md
-
+          output=$(node index.js)
+          echo "${output}" | cat - README.md > README.md.tmp
+          mv README.md.tmp README.md
+          echo "${output}" > previous_output.txt
+          
+          
       - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
