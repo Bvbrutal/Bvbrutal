@@ -179,3 +179,12 @@ Markdown                 5 hrs 47 mins   ██▒░░░░░░░░░░
   <a href="https://github.com/Bvbrutal"><img src="https://stats.justsong.cn/api/leetcode?username=xi-huan-zou-xia-po-lu&theme=dark"/></a>
   <a href="https://github.com/Bvbrutal"><img src="https://stats.justsong.cn/api/github?id=Bvbrutal&theme=dark"/></a>
 </div>
+### Hi there 👋
+
+⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.50 %
+
+---
+
+⏰ Updated on Sat, 29 Jul 2023 21:22:01 GMT
+
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
