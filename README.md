@@ -1,6 +1,4 @@
 
-
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 <!-- 动态打字效果 -->
 <div style="width:100%" align="center">
   <a><img style="width: 600px;height: 375px" src="https://count.getloli.com/get/@psh?theme=rule34"></a>
