@@ -17,9 +17,9 @@ jobs:
       with:
         node-version: '14.x'
     - name: Update README.md
-      run: 
-        output=$(node index.js)
-        printf "0a\n${output}\n.\nw\nq" | ed -s README.md
+      run: |
+          output=$(node index.js)
+          printf "0a\n${output}\n.\nw\nq" | ed -s README.md
     - name: Commit change & Push
       run: |
           git config user.name 'github-actions[bot]'
