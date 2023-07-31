@@ -31,9 +31,8 @@ jobs:
           
       - name: Delete Previous Insertion
         run: |
-          previous_output=$(cat previous_output.md)
-          awk 'BEGIN { RS=""; ORS="\n\n" } !/pattern/' README.md > README1.md.tmp
-          mv README1.md.tmp README.md
+          cat README.md | python3 remove_emojis.py > README.md.tmp
+          mv README.md.tmp README.md
 
   
         
