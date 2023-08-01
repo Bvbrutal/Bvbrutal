@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.09 %
+
+---
+
+⏰ Updated on Tue, 01 Aug 2023 0118 GMT
+### Hi there 👋
+
 ⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.02 %
 
 ---
@@ -189,6 +196,7 @@ Markdown                 5 hrs 47 mins   ██▒░░░░░░░░░░
   <a href="https://github.com/Bvbrutal"><img src="https://stats.justsong.cn/api/leetcode?username=xi-huan-zou-xia-po-lu&theme=dark"/></a>
   <a href="https://github.com/Bvbrutal"><img src="https://stats.justsong.cn/api/github?id=Bvbrutal&theme=dark"/></a>
 </div>
+
 
 
 
