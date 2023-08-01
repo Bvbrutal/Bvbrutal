@@ -21,7 +21,12 @@ jobs:
         with:
           node-version: 16.x
 
-
+      - name: Delete Previous Insertion
+        run: |
+          python3 remove_emojis.py | cat README.md   > README.md.tmp
+          mv README.md.tmp README.md
+          
+          
       - name: Run Node.js Script and Insert to README
         run: |
           output=$(node index.js)
@@ -29,10 +34,6 @@ jobs:
           mv README.md.tmp README.md
           echo "${output}" > previous_output.md
           
-      - name: Delete Previous Insertion
-        run: |
-          python3 remove_emojis.py | cat README.md   > README.md.tmp
-          mv README.md.tmp README.md
 
   
         
