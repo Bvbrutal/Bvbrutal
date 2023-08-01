@@ -25,6 +25,7 @@ jobs:
         run: |
           python3 remove_emojis.py
           
+          
       - name: Run Node.js Script and Insert to README
         run: |
           output=$(node index.js)
@@ -42,4 +43,3 @@ jobs:
           git add README.md previous_output.md
           git commit -m "Insert and Delete Node.js script output to README"
           git push
-
