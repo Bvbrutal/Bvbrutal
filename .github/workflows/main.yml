@@ -23,9 +23,7 @@ jobs:
 
       - name: Delete Previous Insertion
         run: |
-          python3 remove_emojis.py | cat README.md   > README.md.tmp
-          mv README.md.tmp README.md
-          
+          python3 remove_emojis.py
           
       - name: Run Node.js Script and Insert to README
         run: |
