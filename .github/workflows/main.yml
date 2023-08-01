@@ -31,7 +31,7 @@ jobs:
           
       - name: Delete Previous Insertion
         run: |
-          cat README.md | python3 remove_emojis.py > README.md.tmp
+          python3 remove_emojis.py | cat README.md   > README.md.tmp
           mv README.md.tmp README.md
 
   
