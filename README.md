@@ -125,7 +125,8 @@
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.anheyu.com/posts/2594.html' target='_blank'>通义万相上手体验</a> - 2023-07-09
+* <a href='https://pshxx.cc/2023/07/31/%E7%99%BD%E5%AB%96%20Moss%20%E6%96%AF%E5%9D%A6%E7%A6%8F%E6%96%87%E4%BB%B6%E6%9F%A5%E9%87%8D%20297b57ecf6254c688781400dd9472f1d/' target='_blank'>白嫖Moss斯坦福文件查重</a> - 2023-07-31
+* <a href='https://pshxx.cc/2023/06/21/pytorch%E5%AE%89%E8%A3%85/' target='_blank'>pytorch安装</a> - 2023-6-21
 * <a href='#' >待续 ......</a> - 至今
 <!-- END_SECTION:blog -->
 
