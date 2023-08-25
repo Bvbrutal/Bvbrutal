@@ -6,10 +6,23 @@
 
 ⏰ Updated on Fri, 25 Aug 2023 00:45:09 GMT
 
-<!-- 动态打字效果 -->
+
+<!-- 名言警句 -->
+
+<div style="width:100%" align="center">
+  <a><img style="width: 600px;height: 200px" src="https://github.com/Bvbrutal/Bvbrutal/assets/93713843/82a25c7b-cd10-4de0-bd92-6b39978964da"></a>
+</div>
+
+
+<!-- 人数统计 -->
+<!--
 <div style="width:100%" align="center">
   <a><img style="width: 600px;height: 200px" src="https://count.getloli.com/get/@psh?theme=rule34"></a>
 </div>
+-->
+
+
+<!-- 动态打字效果 -->
 <div style="width:100%" align="center">
   <a href="https://pshxx.cc/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=25&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Dream+is+like+underwear!!!!!!;PSH" alt="Typing SVG" />
