@@ -36,7 +36,7 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://pshxx.cc/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
+  <a href="https://bvbrutal.github.io/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
   <a href="https://blog.csdn.net/m0_59088506?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/1937483889"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.youtube.com/channel/UCOOyJ0Pn8blGrwvDTSi8USw"><img src="https://img.shields.io/badge/Youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
@@ -139,8 +139,8 @@
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='https://pshxx.cc/2023/07/31/%E7%99%BD%E5%AB%96%20Moss%20%E6%96%AF%E5%9D%A6%E7%A6%8F%E6%96%87%E4%BB%B6%E6%9F%A5%E9%87%8D%20297b57ecf6254c688781400dd9472f1d/' target='_blank'>白嫖Moss斯坦福文件查重</a> - 2023-07-31
-* <a href='https://pshxx.cc/2023/06/21/pytorch%E5%AE%89%E8%A3%85/' target='_blank'>pytorch安装</a> - 2023-6-21
+* <a href='https://bvbrutal.github.io/2023/07/31/%E7%99%BD%E5%AB%96%20Moss%20%E6%96%AF%E5%9D%A6%E7%A6%8F%E6%96%87%E4%BB%B6%E6%9F%A5%E9%87%8D/' target='_blank'>白嫖Moss斯坦福文件查重</a> - 2023-07-31
+* <a href='https://bvbrutal.github.io/2023/06/21/pytorch%E5%AE%89%E8%A3%85/' target='_blank'>pytorch安装</a> - 2023-6-21
 * <a href='#' >待续 ......</a> - 至今
 <!-- END_SECTION:blog -->
 
