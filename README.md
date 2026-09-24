@@ -116,44 +116,6 @@
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
 </p>
 
-<!-- metrics 基础资料 -->
-<!-- <div align="center"><img src="https://metrics.lecoq.io/Bvbrutal?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" alt="base metrics"/></div>
- -->
-<br>
-
-<!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Bvbrutal&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
-<br>
-
-<!-- GitHub数据统计 -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Bvbrutal&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bvbrutal&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-
-<!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 11 June 2023 - To: 11 July 2023
-
-Total Time: 66 hrs 43 mins
-
-java                     26 hrs 15 mins  █████████▓░░░░░░░░░░░░░░░   39.31 %
-js                       10 hrs 12 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
-machine learning         6 hrs 47 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
-operating system         6 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-Markdown                 5 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-```
-
-<!--END_SECTION:waka-->
-
-</tr>
-</table>
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
