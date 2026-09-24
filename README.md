@@ -131,31 +131,6 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bvbrutal&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-<!-- 最近博客和豆瓣动态 -->
-<table align="center" >
-<tr>
-<td valign="top">
-
-### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
-
-<!-- START_SECTION:blog -->
-* <a href='https://bvbrutal.github.io/2023/07/31/%E7%99%BD%E5%AB%96%20Moss%20%E6%96%AF%E5%9D%A6%E7%A6%8F%E6%96%87%E4%BB%B6%E6%9F%A5%E9%87%8D/' target='_blank'>白嫖Moss斯坦福文件查重</a> - 2023-07-31
-* <a href='https://bvbrutal.github.io/2023/06/21/pytorch%E5%AE%89%E8%A3%85/' target='_blank'>pytorch安装</a> - 2023-6-21
-* <a href='#' >待续 ......</a> - 至今
-<!-- END_SECTION:blog -->
-
-</td>
-<td valign="top">
-  
-### 🤾‍♂️ <a href="https://www.douban.com/people/252613592" target="_blank">Funny Soul</a>
-
-<!-- START_SECTION:douban -->
-* <a href='https://www.bilibili.com/bangumi/play/ep683730/' target='_blank'>想看《蓝色监狱》</a> - 2023-07-30
-* <a href='https://www.bilibili.com/bangumi/play/ep341309?spm_id_from=333.337.0.0&from_spmid=666.25.episode.0' target='_blank'>看过《咒术回战》 第一季 正在养第二季🐮</a> - 2023-01-09
-<!-- END_SECTION:douban -->
-
-</table>
-
 <!-- wakatime 统计 -->
 <table align="center">
 <tr>
